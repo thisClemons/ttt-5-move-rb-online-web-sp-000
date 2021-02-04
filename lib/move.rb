@@ -13,5 +13,4 @@ end
 
 def move(board, index, team = "X")
   board[index] = team
-  board
 end
